@@ -1,1 +1,1 @@
-There are C homeworks for Computer Programming class.
+C homeworks for Computer Programming class.
